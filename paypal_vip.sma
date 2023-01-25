@@ -1,5 +1,3 @@
-
-
 // Tagul din chat
 #define CHAT_PREFIX "^4[PAYPAL VIP]^1"
 
